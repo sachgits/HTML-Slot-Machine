@@ -7,7 +7,6 @@ No Flash or Frameworks required. Allowing for an amazing low bundle size and bla
 
 Built using the _Web Animations API_.
 
-**[Live Demo](https://johakr.github.io/html5-slot-machine/)**
 
 ## Features
 
@@ -23,7 +22,7 @@ Built using the _Web Animations API_.
 
 ## Configuration
 
-For configuration options see `config` object in [index.js](https://github.com/johakr/html5-slot-machine/blob/master/src/js/index.js)
+For configuration options see `config` object in [index.js](https://github.com/tortu-ch/HTML-Slot-Machine/blob/master/src/js/index.js)
 
 | Property   | Description                                                                                                                            | Default |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------- |
